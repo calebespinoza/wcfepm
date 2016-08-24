@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMWebClient2\bin\EPMWebClient2.dll
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMWebClient2\bin\EPMWebClient2.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMWebClient2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMWebClient2\obj\Debug\EPMWebClient2.dll
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMWebClient2\obj\Debug\EPMWebClient2.pdb

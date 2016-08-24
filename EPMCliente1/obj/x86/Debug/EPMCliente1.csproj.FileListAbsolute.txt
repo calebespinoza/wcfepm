@@ -1,0 +1,11 @@
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\bin\Debug\EPMCliente1.exe.config
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\bin\Debug\EPMCliente1.exe
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\bin\Debug\EPMCliente1.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\EPMCliente1.frmLogin.resources
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\EPMCliente1.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\EPMCliente1.exe
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\EPMCliente1.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\EPMCliente1\obj\x86\Debug\EPMCliente1.frmReadings.resources

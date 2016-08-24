@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\WCFEMPLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\WCFEMPLibrary\bin\Debug\WCFEMPLibrary.dll.config
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\WCFEMPLibrary\bin\Debug\WCFEMPLibrary.dll
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\WCFEMPLibrary\bin\Debug\WCFEMPLibrary.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\WCFEMPLibrary\obj\Debug\WCFEMPLibrary.dll
+c:\users\administrador\documents\visual studio 2010\Projects\WCFEPM\WCFEMPLibrary\obj\Debug\WCFEMPLibrary.pdb
